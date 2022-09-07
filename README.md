@@ -8,17 +8,17 @@ Binary Search Tree Proje Ödevi
 # Cevaplar :
 1. 
 
-  root : 7
-  1. 5, root'un solunda, 
-  2. 1, 5'in solunda,
-  3. 8, root'un sağında,
-  4. 3, 1'in sağında,
-  5. 6, 5'in sağında,
-  6. 0, 1'in solunda,
-  7. 9, 8'in sağında,
-  8. 4, 3'ün sağında,
-  9. 2, 3'ün solunda,
-      olacaktır.
+        root : 7
+        1. 5, root'un solunda, 
+        2. 1, 5'in solunda,
+        3. 8, root'un sağında,
+        4. 3, 1'in sağında,
+        5. 6, 5'in sağında,
+        6. 0, 1'in solunda,
+        7. 9, 8'in sağında,
+        8. 4, 3'ün sağında,
+        9. 2, 3'ün solunda,
+        olacaktır.
       
   
   
